@@ -1,2 +1,2 @@
 # todolist-project
-Using jquery 
+Using jquery, html, css
